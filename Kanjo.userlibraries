@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="gdx-backend-android-1.9.4">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.4/194b33382d6d58fad031521ba3331d926c476c9b/gdx-backend-android-1.9.4.jar" />
+  </library>
+  <library name="support-annotations-23.4.0">
+    <archive path="D:/Development/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar" />
+  </library>
+  <library name="box2dlights-1.4">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.4/3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd/box2dlights-1.4.jar" />
+  </library>
+  <library name="ashley-1.7.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.7.0/a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4/ashley-1.7.0.jar" />
+  </library>
+  <library name="gdx-dialogs-core-1.1.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/de.tomgrill.gdxdialogs/gdx-dialogs-core/1.1.0/f1b81e4141dec9cbaafc3e9a2114420108502f20/gdx-dialogs-core-1.1.0.jar" />
+  </library>
+  <library name="gdx-box2d-1.9.4">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.4/98a0d25c9f0637fecac6e4aacf7287aa635964f5/gdx-box2d-1.9.4.jar" />
+  </library>
+  <library name="facebook-android-sdk-4.12.1">
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.1/jars/classes.jar" />
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.1/res" />
+  </library>
+  <library name="gdx-bullet-1.9.4">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-bullet/1.9.4/971a174538f313b9f975b8a6bbdf3aad04bb564d/gdx-bullet-1.9.4.jar" />
+  </library>
+  <library name="gdx-facebook-core-1.2.2">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/de.tomgrill.gdxfacebook/gdx-facebook-core/1.2.2/9c729251038ef749dbc4457584d68e22998cfb6d/gdx-facebook-core-1.2.2.jar" />
+  </library>
+  <library name="gdx-1.9.4">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.4/4b4b7962d1bc75af0438f5c81ec1010557bc9ee5/gdx-1.9.4.jar" />
+  </library>
+  <library name="gdx-facebook-android-1.2.2">
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/de.tomgrill.gdxfacebook/gdx-facebook-android/1.2.2/jars/classes.jar" />
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/de.tomgrill.gdxfacebook/gdx-facebook-android/1.2.2/res" />
+  </library>
+  <library name="cardview-v7-23.4.0">
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/res" />
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar" />
+  </library>
+  <library name="bolts-tasks-1.4.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar" />
+  </library>
+  <library name="support-v4-23.4.0">
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar" />
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/res" />
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar" />
+  </library>
+  <library name="bolts-applinks-1.4.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar" />
+  </library>
+  <library name="bolts-android-1.4.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.4.0/cc174c559b5177982887bf6e1b76003aebad9516/bolts-android-1.4.0.jar" />
+  </library>
+  <library name="customtabs-23.4.0">
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar" />
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/res" />
+  </library>
+  <library name="gdx-ai-1.8.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.0/ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5/gdx-ai-1.8.0.jar" />
+  </library>
+  <library name="gdx-freetype-1.9.4">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.4/8816dd669b8ca09e7d5e9575807e92c4318f708/gdx-freetype-1.9.4.jar" />
+  </library>
+  <library name="gdx-dialogs-android-1.1.0">
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/de.tomgrill.gdxdialogs/gdx-dialogs-android/1.1.0/res" />
+    <archive path="D:/Development/Workspace/Kanjo/android/build/intermediates/exploded-aar/de.tomgrill.gdxdialogs/gdx-dialogs-android/1.1.0/jars/classes.jar" />
+  </library>
+  <library name="libgdx-utils-0.13.3">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/net.dermetfan.libgdx-utils/libgdx-utils/0.13.3/96b4f9d59b869f1cbf83b055ec763519da83a125/libgdx-utils-0.13.3.jar" />
+  </library>
+  <library name="libgdx-utils-box2d-0.13.3">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/net.dermetfan.libgdx-utils/libgdx-utils-box2d/0.13.3/8cf92d93d3022a9616636a67b0864b781d349066/libgdx-utils-box2d-0.13.3.jar" />
+  </library>
+  <library name="core.core-1.0">
+    <archive path="D:/Development/Workspace/Kanjo/core/build/libs/core-1.0.jar" />
+  </library>
+  <library name="gdx-backend-lwjgl-1.9.4">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-lwjgl/1.9.4/4c6c108a9dcbc07096de8594b93f9cab33856fe2/gdx-backend-lwjgl-1.9.4.jar" />
+  </library>
+  <library name="gdx-platform-1.9.4-natives-desktop">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-platform/1.9.4/8e93afecc287ab152179983fc1b5f65db4c2fa4c/gdx-platform-1.9.4-natives-desktop.jar" />
+  </library>
+  <library name="gdx-box2d-platform-1.9.4-natives-desktop">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d-platform/1.9.4/905a9ed3017cd3917b7fbada5ece58c40fddcbca/gdx-box2d-platform-1.9.4-natives-desktop.jar" />
+  </library>
+  <library name="gdx-bullet-platform-1.9.4-natives-desktop">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-bullet-platform/1.9.4/13190302e8721452ffb8ae242dba20f6195e8175/gdx-bullet-platform-1.9.4-natives-desktop.jar" />
+  </library>
+  <library name="gdx-tools-1.9.4">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-tools/1.9.4/4c15cd85a5077bc7d13914be7cbd8dcce2d31725/gdx-tools-1.9.4.jar" />
+  </library>
+  <library name="gdx-facebook-desktop-1.2.2">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/de.tomgrill.gdxfacebook/gdx-facebook-desktop/1.2.2/2c4226d4f532881a9ec8e3ff588c23aaaba41057/gdx-facebook-desktop-1.2.2.jar" />
+  </library>
+  <library name="gdx-dialogs-desktop-1.1.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/de.tomgrill.gdxdialogs/gdx-dialogs-desktop/1.1.0/91d0a1c96bebf1ec6145e59102a1ce589c06292f/gdx-dialogs-desktop-1.1.0.jar" />
+  </library>
+  <library name="gdx-freetype-platform-1.9.4-natives-desktop">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype-platform/1.9.4/4bced98798c82ba1cb947343bdd6297243ea09e3/gdx-freetype-platform-1.9.4-natives-desktop.jar" />
+  </library>
+  <library name="lwjgl-2.9.2">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.2/a9d80fe5935c7a9149f6584d9777cfd471f65489/lwjgl-2.9.2.jar" />
+  </library>
+  <library name="lwjgl_util-2.9.2">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.2/4b9e37300a87799856e0bd15ed81663cdb6b0947/lwjgl_util-2.9.2.jar" />
+  </library>
+  <library name="jlayer-1.0.1-gdx">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.jlayer/jlayer/1.0.1-gdx/7cca83cec5c1b2f011362f4d85aabd71a73b049d/jlayer-1.0.1-gdx.jar" />
+  </library>
+  <library name="jorbis-0.0.17">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.jcraft/jorbis/0.0.17/8872d22b293e8f5d7d56ff92be966e6dc28ebdc6/jorbis-0.0.17.jar" />
+  </library>
+  <library name="gdx-backend-headless-1.9.4">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-headless/1.9.4/e985d7be223b56c9e03ad79bc573d038319cc62b/gdx-backend-headless-1.9.4.jar" />
+  </library>
+  <library name="lwjgl-platform-2.9.2-natives-windows">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.2/510c7d317f5e9e700b9cfaac5fd38bdebf0702e0/lwjgl-platform-2.9.2-natives-windows.jar" />
+  </library>
+  <library name="lwjgl-platform-2.9.2-natives-linux">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.2/d276cdf61fe2b516c7b7f4aa1b8dea91dbdc8d56/lwjgl-platform-2.9.2-natives-linux.jar" />
+  </library>
+  <library name="lwjgl-platform-2.9.2-natives-osx">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.2/d55b46b40b40249d627a83a7f7f22649709d70c3/lwjgl-platform-2.9.2-natives-osx.jar" />
+  </library>
+  <library name="jinput-2.0.5">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar" />
+  </library>
+  <library name="jutils-1.0.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar" />
+  </library>
+  <library name="jinput-platform-2.0.5-natives-linux">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/7ff832a6eb9ab6a767f1ade2b548092d0fa64795/jinput-platform-2.0.5-natives-linux.jar" />
+  </library>
+  <library name="jinput-platform-2.0.5-natives-windows">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/385ee093e01f587f30ee1c8a2ee7d408fd732e16/jinput-platform-2.0.5-natives-windows.jar" />
+  </library>
+  <library name="jinput-platform-2.0.5-natives-osx">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/53f9c919f34d2ca9de8c51fc4e1e8282029a9232/jinput-platform-2.0.5-natives-osx.jar" />
+  </library>
+  <library name="desktop.desktop-1.0">
+    <archive path="D:/Development/Workspace/Kanjo/desktop/build/libs/desktop-1.0.jar" />
+  </library>
+  <library name="robovm-rt-2.2.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-rt/2.2.0/8a5cf08e2989ceaaa5d026c79cefbbc3cee56806/robovm-rt-2.2.0.jar" />
+  </library>
+  <library name="robovm-cocoatouch-2.2.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-cocoatouch/2.2.0/ee379470f429ed37370c9896c4a066473ba2441e/robovm-cocoatouch-2.2.0.jar" />
+  </library>
+  <library name="gdx-backend-robovm-1.9.4">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-robovm/1.9.4/28822d4eac3c24b2b6d5ee50a017bc8981b7edd6/gdx-backend-robovm-1.9.4.jar" />
+  </library>
+  <library name="gdx-platform-1.9.4-natives-ios">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-platform/1.9.4/934c60d5c1a1bd8fcf3583e3566e20b5a87184dd/gdx-platform-1.9.4-natives-ios.jar" />
+  </library>
+  <library name="gdx-box2d-platform-1.9.4-natives-ios">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d-platform/1.9.4/434e3bea761fc709d546477d0b3913f5049e2bb8/gdx-box2d-platform-1.9.4-natives-ios.jar" />
+  </library>
+  <library name="gdx-bullet-platform-1.9.4-natives-ios">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-bullet-platform/1.9.4/1cb71258c13821bd1c8c1ec32d54b91bd7f973a1/gdx-bullet-platform-1.9.4-natives-ios.jar" />
+  </library>
+  <library name="gdx-facebook-ios-1.2.2">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/de.tomgrill.gdxfacebook/gdx-facebook-ios/1.2.2/c47d1812042c14e6299c3b3d25890c5f267054ea/gdx-facebook-ios-1.2.2.jar" />
+  </library>
+  <library name="gdx-dialogs-ios-1.1.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/de.tomgrill.gdxdialogs/gdx-dialogs-ios/1.1.0/99e7e473061a2a1be906884b283be9b3b0eda01e/gdx-dialogs-ios-1.1.0.jar" />
+  </library>
+  <library name="gdx-freetype-platform-1.9.4-natives-ios">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype-platform/1.9.4/d1fefe33474887a0006dfd2ce933eeb10e60fb3c/gdx-freetype-platform-1.9.4-natives-ios.jar" />
+  </library>
+  <library name="robovm-objc-2.2.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-objc/2.2.0/68529e3192f2affd71d135acd2e9176f05d23c39/robovm-objc-2.2.0.jar" />
+  </library>
+  <library name="robopods-facebook-ios-1.14.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.robovm/robopods-facebook-ios/1.14.0/2b3148f09cb762ee4607104a9cefdb6eb8352c8b/robopods-facebook-ios-1.14.0.jar" />
+  </library>
+  <library name="robovm-objc-1.14.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-objc/1.14.0/176684852407a7e3b63a59711cc60e10760051e/robovm-objc-1.14.0.jar" />
+  </library>
+  <library name="robopods-facebook-ios-core-1.14.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.robovm/robopods-facebook-ios-core/1.14.0/39470ef9e2ca5bc3c712c4d7818e56a6660cf01d/robopods-facebook-ios-core-1.14.0.jar" />
+  </library>
+  <library name="robopods-facebook-ios-login-1.14.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.robovm/robopods-facebook-ios-login/1.14.0/1a3cc419790b1abd94c4434cae633fd4e0082322/robopods-facebook-ios-login-1.14.0.jar" />
+  </library>
+  <library name="robopods-facebook-ios-messenger-1.14.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.robovm/robopods-facebook-ios-messenger/1.14.0/7d9728a9f8fdf6f3a360aff264b6c6b1bcf7c05e/robopods-facebook-ios-messenger-1.14.0.jar" />
+  </library>
+  <library name="robopods-facebook-ios-share-1.14.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.robovm/robopods-facebook-ios-share/1.14.0/3ebade83088ee749b6d74917b8b24a0b981b3cd4/robopods-facebook-ios-share-1.14.0.jar" />
+  </library>
+  <library name="robopods-bolts-ios-1.14.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.robovm/robopods-bolts-ios/1.14.0/9af31651b319253310c5d34d265bb92de70ddfe7/robopods-bolts-ios-1.14.0.jar" />
+  </library>
+  <library name="robovm-rt-1.14.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-rt/1.14.0/f8fead17afa8dd468341e3831bbe48151688eb4d/robovm-rt-1.14.0.jar" />
+  </library>
+  <library name="robovm-rt-common-1.14.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-rt-common/1.14.0/780963880eea5c03cde91eeaf21ddc62c372e777/robovm-rt-common-1.14.0.jar" />
+  </library>
+  <library name="robovm-cocoatouch-1.14.0">
+    <archive path="C:/Users/ryank/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-cocoatouch/1.14.0/c21317b56763b6941349997c105ce89a209cb078/robovm-cocoatouch-1.14.0.jar" />
+  </library>
+  <library name="ios.ios-1.0">
+    <archive path="D:/Development/Workspace/Kanjo/ios/build/libs/ios-1.0.jar" />
+  </library>
+  <library name="src" />
+</eclipse-userlibraries>
+

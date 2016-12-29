@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_7" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/build/classes/test"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/src/test/resources"/>
+		<excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/build"/>
+	</contentEntry>
+	<levels>
+		<level name="robovm-rt-2.2.0" value="project"/>
+		<level name="robovm-cocoatouch-2.2.0" value="project"/>
+		<level name="gdx-backend-robovm-1.9.4" value="project"/>
+		<level name="gdx-platform-1.9.4-natives-ios" value="project"/>
+		<level name="gdx-box2d-platform-1.9.4-natives-ios" value="project"/>
+		<level name="gdx-bullet-platform-1.9.4-natives-ios" value="project"/>
+		<level name="gdx-facebook-ios-1.2.2" value="project"/>
+		<level name="gdx-dialogs-ios-1.1.0" value="project"/>
+		<level name="gdx-freetype-platform-1.9.4-natives-ios" value="project"/>
+		<level name="gdx-1.9.4" value="project"/>
+		<level name="gdx-box2d-1.9.4" value="project"/>
+		<level name="gdx-bullet-1.9.4" value="project"/>
+		<level name="box2dlights-1.4" value="project"/>
+		<level name="ashley-1.7.0" value="project"/>
+		<level name="gdx-ai-1.8.0" value="project"/>
+		<level name="libgdx-utils-0.13.3" value="project"/>
+		<level name="libgdx-utils-box2d-0.13.3" value="project"/>
+		<level name="gdx-facebook-core-1.2.2" value="project"/>
+		<level name="gdx-dialogs-core-1.1.0" value="project"/>
+		<level name="gdx-freetype-1.9.4" value="project"/>
+		<level name="robovm-objc-2.2.0" value="project"/>
+		<level name="robopods-facebook-ios-1.14.0" value="project"/>
+		<level name="robovm-objc-1.14.0" value="project"/>
+		<level name="robopods-facebook-ios-core-1.14.0" value="project"/>
+		<level name="robopods-facebook-ios-login-1.14.0" value="project"/>
+		<level name="robopods-facebook-ios-messenger-1.14.0" value="project"/>
+		<level name="robopods-facebook-ios-share-1.14.0" value="project"/>
+		<level name="robopods-bolts-ios-1.14.0" value="project"/>
+		<level name="robovm-rt-1.14.0" value="project"/>
+		<level name="robovm-rt-common-1.14.0" value="project"/>
+		<level name="robovm-cocoatouch-1.14.0" value="project"/>
+		<level name="ios.ios-1.0" value="project"/>
+	</levels>
+</component>

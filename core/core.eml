@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_6" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/build/classes/test"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/src/test/resources"/>
+		<excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/build"/>
+	</contentEntry>
+	<levels>
+		<level name="gdx-1.9.4" value="project"/>
+		<level name="gdx-box2d-1.9.4" value="project"/>
+		<level name="gdx-bullet-1.9.4" value="project"/>
+		<level name="box2dlights-1.4" value="project"/>
+		<level name="ashley-1.7.0" value="project"/>
+		<level name="gdx-ai-1.8.0" value="project"/>
+		<level name="libgdx-utils-0.13.3" value="project"/>
+		<level name="libgdx-utils-box2d-0.13.3" value="project"/>
+		<level name="gdx-facebook-core-1.2.2" value="project"/>
+		<level name="gdx-dialogs-core-1.1.0" value="project"/>
+		<level name="gdx-freetype-1.9.4" value="project"/>
+		<level name="core.core-1.0" value="project"/>
+	</levels>
+</component>

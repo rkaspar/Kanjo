@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_6" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/build/classes/test"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/src/test/resources"/>
+		<excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/build"/>
+	</contentEntry>
+	<levels>
+		<level name="gdx-backend-lwjgl-1.9.4" value="project"/>
+		<level name="gdx-platform-1.9.4-natives-desktop" value="project"/>
+		<level name="gdx-box2d-platform-1.9.4-natives-desktop" value="project"/>
+		<level name="gdx-bullet-platform-1.9.4-natives-desktop" value="project"/>
+		<level name="gdx-tools-1.9.4" value="project"/>
+		<level name="gdx-facebook-desktop-1.2.2" value="project"/>
+		<level name="gdx-dialogs-desktop-1.1.0" value="project"/>
+		<level name="gdx-freetype-platform-1.9.4-natives-desktop" value="project"/>
+		<level name="gdx-1.9.4" value="project"/>
+		<level name="gdx-box2d-1.9.4" value="project"/>
+		<level name="gdx-bullet-1.9.4" value="project"/>
+		<level name="box2dlights-1.4" value="project"/>
+		<level name="ashley-1.7.0" value="project"/>
+		<level name="gdx-ai-1.8.0" value="project"/>
+		<level name="libgdx-utils-0.13.3" value="project"/>
+		<level name="libgdx-utils-box2d-0.13.3" value="project"/>
+		<level name="gdx-facebook-core-1.2.2" value="project"/>
+		<level name="gdx-dialogs-core-1.1.0" value="project"/>
+		<level name="gdx-freetype-1.9.4" value="project"/>
+		<level name="lwjgl-2.9.2" value="project"/>
+		<level name="lwjgl_util-2.9.2" value="project"/>
+		<level name="jlayer-1.0.1-gdx" value="project"/>
+		<level name="jorbis-0.0.17" value="project"/>
+		<level name="gdx-backend-headless-1.9.4" value="project"/>
+		<level name="lwjgl-platform-2.9.2-natives-windows" value="project"/>
+		<level name="lwjgl-platform-2.9.2-natives-linux" value="project"/>
+		<level name="lwjgl-platform-2.9.2-natives-osx" value="project"/>
+		<level name="jinput-2.0.5" value="project"/>
+		<level name="jutils-1.0.0" value="project"/>
+		<level name="jinput-platform-2.0.5-natives-linux" value="project"/>
+		<level name="jinput-platform-2.0.5-natives-windows" value="project"/>
+		<level name="jinput-platform-2.0.5-natives-osx" value="project"/>
+		<level name="desktop.desktop-1.0" value="project"/>
+	</levels>
+</component>

@@ -7,9 +7,7 @@ import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.Texture;
-import com.badlogic.gdx.graphics.g2d.BitmapFont;
-import com.badlogic.gdx.graphics.g2d.ParticleEffect;
-import com.badlogic.gdx.graphics.g2d.SpriteBatch;
+import com.badlogic.gdx.graphics.g2d.*;
 import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator;
 import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator.FreeTypeFontParameter;
 import com.badlogic.gdx.math.MathUtils;
@@ -34,8 +32,9 @@ public class MainGame implements ApplicationListener {
 	Texture img;
 
 	private Array<Entity> Entities;
-	public OrthographicCamera camera, hudCamera;
+	public static OrthographicCamera camera, hudCamera;
 	Box2DDebugRenderer debugRenderer;
+
 	public ContactHandler contactHandler = new ContactHandler();
 	ParticleEffect snowEffect = new ParticleEffect();
 	private boolean debug = true;
@@ -44,6 +43,7 @@ public class MainGame implements ApplicationListener {
 	FreeTypeFontParameter fontparams;
 
 	private Hud hud;
+	private Sprite plant;
 
 	@Override
 	public void create() {
@@ -60,24 +60,24 @@ public class MainGame implements ApplicationListener {
 		float aspectRatio = (float) w / (float) h;
 		//end aspect ratio
 		fontgen = new FreeTypeFontGenerator(Gdx.files.internal("fonts/font_main.ttf"));
-		fontparams = new FreeTypeFontParameter();
-		fontparams.characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.!'()>?:";
-		fontparams.genMipMaps = true;
-		fontparams.minFilter = Texture.TextureFilter.MipMapLinearLinear;
-		fontparams.magFilter = Texture.TextureFilter.MipMapNearestNearest;
-		fontparams.size = (int) (12 / WORLD_SCALE);
-
-		font12 = fontgen.generateFont(fontparams);
-		font12.setUseIntegerPositions(false);
-		fontgen.dispose();
+		fontgen.scaleForPixelHeight(2);
+		FreeTypeFontParameter params = new FreeTypeFontParameter();
+		params.genMipMaps = true;
+		params.minFilter = Texture.TextureFilter.MipMapNearestNearest;
+		params.size = 2;
+		font12 = fontgen.generateFont(params);
 
 		camera = new OrthographicCamera(WORLD_HEIGHT * aspectRatio / WORLD_SCALE, WORLD_HEIGHT / WORLD_SCALE);
 		camera.position.set(WORLD_WIDTH / 2 / WORLD_SCALE, WORLD_HEIGHT / 2 / WORLD_SCALE, 0);
 		hud = new Hud(batch, camera);
 
 
+		//Spine2d test
+		TextureAtlas atlas = new TextureAtlas(Gdx.files.internal("animations/plant_tall.atlas"));
+
+
 		//DEBUG load test entities
-		for (int i = 0; i < 5; i++) {
+		for (int i = 0; i < 1000; i++) {
 			Entity e = new Entity(scale(MathUtils.random(10, 300)), scale(MathUtils.random(10, 300)), img,
 					world, true);
 			Entities.add(e);
@@ -102,7 +102,6 @@ public class MainGame implements ApplicationListener {
 		float delta = Gdx.graphics.getDeltaTime();
 		input();
 
-		update();
 
 		camera.update();
 		batch.setProjectionMatrix(camera.combined);
@@ -117,14 +116,18 @@ public class MainGame implements ApplicationListener {
 			renderDebug();
 		}
 
+		//Render all entities in scene
 		for (Entity e : Entities) {
 			e.draw(batch);
 		}
 
+		//draw particle effects.
 		snowEffect.draw(batch, delta);
-
+		//plant.draw(batch);
 		batch.end();
 
+		//draw HUD
+		update();
 	}
 
 	private void update() {
@@ -146,8 +149,8 @@ public class MainGame implements ApplicationListener {
 	}
 
 	private void renderDebug() {
-		font12.setColor(Color.WHITE);
 
+		font12.setColor(Color.WHITE);
 		font12.draw(batch, "Camera Viewport: \n" + "X:" + camera.position.x + "\n Y:" + camera.position.y + "\n H:"
 				+ camera.viewportHeight + "\n W:" + camera.viewportWidth, 15, 0);
 
@@ -201,6 +204,8 @@ public class MainGame implements ApplicationListener {
 	@Override
 	public void dispose() {
 		batch.dispose();
+		font12.dispose();
+
 
 	}
 

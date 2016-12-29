@@ -1,0 +1,2449 @@
+{
+  "skeleton": {
+    "hash": "MU6nJG2KI9FzL3Ad0i4oc6q1YOo",
+    "spine": "3.5.46",
+    "width": 26,
+    "height": 101,
+    "images": "D:/Development/Workspace/Kanjo/android/assets/animations/plant_tall"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "x": 64.96,
+      "y": 4.64
+    },
+    {
+      "name": "Layer 1",
+      "parent": "bone",
+      "length": 13.89,
+      "rotation": 89.49,
+      "y": 0.25
+    },
+    {
+      "name": "Layer 2",
+      "parent": "Layer 1",
+      "length": 8.81,
+      "rotation": -1.1,
+      "x": 14.13,
+      "y": 0.25
+    },
+    {
+      "name": "Layer 3",
+      "parent": "Layer 2",
+      "length": 7.81,
+      "rotation": 1.61,
+      "x": 9.05,
+      "y": 0.13
+    },
+    {
+      "name": "Layer 4",
+      "parent": "Layer 3",
+      "length": 10.79,
+      "rotation": -0.66,
+      "x": 8.18,
+      "y": 0.12
+    },
+    {
+      "name": "Layer 5",
+      "parent": "Layer 4",
+      "length": 11.04,
+      "rotation": 0.66,
+      "x": 10.54
+    },
+    {
+      "name": "Layer 6",
+      "parent": "Layer 5",
+      "length": 13.76,
+      "rotation": -0.52,
+      "x": 11.04,
+      "y": 0.12
+    },
+    {
+      "name": "Layer 7",
+      "parent": "Layer 6",
+      "length": 11.21,
+      "rotation": 0.52,
+      "x": 13.88,
+      "y": -0.04
+    },
+    {
+      "name": "Layer 8",
+      "parent": "Layer 7",
+      "length": 5.04,
+      "rotation": -1.43,
+      "x": 11.09,
+      "y": 0.13
+    },
+    {
+      "name": "Layer 9",
+      "parent": "Layer 8",
+      "length": 4.28,
+      "rotation": 0.59,
+      "x": 4.91,
+      "y": 0.12
+    },
+    {
+      "name": "Layer 10",
+      "parent": "Layer 9",
+      "length": 4.03,
+      "rotation": -0.05,
+      "x": 4.09,
+      "y": 0.06
+    },
+    {
+      "name": "leaf1",
+      "parent": "Layer 4",
+      "length": 15.51,
+      "rotation": 48.87,
+      "x": 1.63,
+      "y": 0.07
+    },
+    {
+      "name": "leaf3",
+      "parent": "Layer 5",
+      "length": 15.1,
+      "rotation": 49.96,
+      "x": 1.91,
+      "y": 0.05
+    },
+    {
+      "name": "leaf5",
+      "parent": "Layer 6",
+      "length": 15.74,
+      "rotation": 45.2,
+      "x": -0.15,
+      "y": 0.17
+    },
+    {
+      "name": "leaf8",
+      "parent": "Layer 6",
+      "length": 15.96,
+      "rotation": 49.58,
+      "x": 10.68,
+      "y": 0.02
+    },
+    {
+      "name": "leaf9",
+      "parent": "Layer 7",
+      "length": 16.13,
+      "rotation": 49.02,
+      "x": 6.52,
+      "y": -0.03
+    },
+    {
+      "name": "leaf11",
+      "parent": "Layer 9",
+      "length": 15.72,
+      "rotation": 50.92,
+      "x": 1.34,
+      "y": 0.11
+    },
+    {
+      "name": "leaf13",
+      "parent": "Layer 4",
+      "length": 15.07,
+      "rotation": -47.32,
+      "x": 1.75,
+      "y": -0.06
+    },
+    {
+      "name": "leaf15",
+      "parent": "Layer 5",
+      "length": 14.66,
+      "rotation": -49.76,
+      "x": 2.16,
+      "y": 0.05
+    },
+    {
+      "name": "leaf17",
+      "parent": "Layer 6",
+      "length": 16.47,
+      "rotation": -47.81,
+      "x": -0.15,
+      "y": 0.29
+    },
+    {
+      "name": "leaf19",
+      "parent": "Layer 6",
+      "length": 15.42,
+      "rotation": -48.04,
+      "x": 10.31,
+      "y": 0.02
+    },
+    {
+      "name": "leaf21",
+      "parent": "Layer 7",
+      "length": 16.26,
+      "rotation": -45.31,
+      "x": 5.9,
+      "y": -0.03
+    },
+    {
+      "name": "leaf24",
+      "parent": "Layer 9",
+      "length": 15.12,
+      "rotation": -49.77,
+      "x": 1.34,
+      "y": 0.11
+    },
+    {
+      "name": "leaf25",
+      "parent": "Layer 10",
+      "length": 6.62,
+      "rotation": 0.35,
+      "x": 4.1
+    }
+  ],
+  "slots": [
+    {
+      "name": "Layer 10",
+      "bone": "Layer 10",
+      "attachment": "Layer 10"
+    },
+    {
+      "name": "Layer 9",
+      "bone": "Layer 9",
+      "attachment": "Layer 9"
+    },
+    {
+      "name": "Layer 8",
+      "bone": "Layer 8",
+      "attachment": "Layer 8"
+    },
+    {
+      "name": "Layer 7",
+      "bone": "Layer 7",
+      "attachment": "Layer 7"
+    },
+    {
+      "name": "Layer 6",
+      "bone": "Layer 6",
+      "attachment": "Layer 6"
+    },
+    {
+      "name": "Layer 5",
+      "bone": "Layer 5",
+      "attachment": "Layer 5"
+    },
+    {
+      "name": "Layer 4",
+      "bone": "Layer 4",
+      "attachment": "Layer 4"
+    },
+    {
+      "name": "Layer 3",
+      "bone": "Layer 3",
+      "attachment": "Layer 3"
+    },
+    {
+      "name": "Layer 2",
+      "bone": "Layer 2",
+      "attachment": "Layer 2"
+    },
+    {
+      "name": "Layer 1",
+      "bone": "Layer 1",
+      "attachment": "Layer 1"
+    },
+    {
+      "name": "leaf25",
+      "bone": "leaf25",
+      "attachment": "leaf25"
+    },
+    {
+      "name": "leaf24",
+      "bone": "leaf24",
+      "attachment": "leaf24"
+    },
+    {
+      "name": "leaf23",
+      "bone": "leaf24",
+      "attachment": "leaf23"
+    },
+    {
+      "name": "leaf22",
+      "bone": "leaf21",
+      "attachment": "leaf22"
+    },
+    {
+      "name": "leaf21",
+      "bone": "leaf21",
+      "attachment": "leaf21"
+    },
+    {
+      "name": "leaf20",
+      "bone": "leaf19",
+      "attachment": "leaf20"
+    },
+    {
+      "name": "leaf19",
+      "bone": "leaf19",
+      "attachment": "leaf19"
+    },
+    {
+      "name": "leaf18",
+      "bone": "leaf17",
+      "attachment": "leaf18"
+    },
+    {
+      "name": "leaf17",
+      "bone": "leaf17",
+      "attachment": "leaf17"
+    },
+    {
+      "name": "leaf16",
+      "bone": "leaf15",
+      "attachment": "leaf16"
+    },
+    {
+      "name": "leaf15",
+      "bone": "leaf15",
+      "attachment": "leaf15"
+    },
+    {
+      "name": "leaf14",
+      "bone": "leaf13",
+      "attachment": "leaf14"
+    },
+    {
+      "name": "leaf13",
+      "bone": "leaf13",
+      "attachment": "leaf13"
+    },
+    {
+      "name": "leaf12",
+      "bone": "leaf11",
+      "attachment": "leaf12"
+    },
+    {
+      "name": "leaf11",
+      "bone": "leaf11",
+      "attachment": "leaf11"
+    },
+    {
+      "name": "leaf10",
+      "bone": "leaf9",
+      "attachment": "leaf10"
+    },
+    {
+      "name": "leaf9",
+      "bone": "leaf9",
+      "attachment": "leaf9"
+    },
+    {
+      "name": "leaf8",
+      "bone": "leaf8",
+      "attachment": "leaf8"
+    },
+    {
+      "name": "leaf7",
+      "bone": "leaf8",
+      "attachment": "leaf7"
+    },
+    {
+      "name": "leaf6",
+      "bone": "leaf5",
+      "attachment": "leaf6"
+    },
+    {
+      "name": "ground",
+      "bone": "Layer 1",
+      "attachment": "ground"
+    },
+    {
+      "name": "leaf5",
+      "bone": "leaf5",
+      "attachment": "leaf5"
+    },
+    {
+      "name": "leaf4",
+      "bone": "leaf3",
+      "attachment": "leaf4"
+    },
+    {
+      "name": "leaf3",
+      "bone": "leaf3",
+      "attachment": "leaf3"
+    },
+    {
+      "name": "leaf2",
+      "bone": "leaf1",
+      "attachment": "leaf2"
+    },
+    {
+      "name": "leaf1",
+      "bone": "leaf1",
+      "attachment": "leaf1"
+    }
+  ],
+  "skins": {
+    "default": {
+      "Layer 1": {
+        "Layer 1": {
+          "x": 6.61,
+          "y": 0.02,
+          "rotation": -89.49,
+          "width": 4,
+          "height": 17
+        }
+      },
+      "Layer 10": {
+        "Layer 10": {
+          "x": 2.19,
+          "y": -0.09,
+          "rotation": -89.1,
+          "width": 4,
+          "height": 6
+        }
+      },
+      "Layer 2": {
+        "Layer 2": {
+          "x": 4.47,
+          "y": -0.04,
+          "rotation": -88.39,
+          "width": 4,
+          "height": 11
+        }
+      },
+      "Layer 3": {
+        "Layer 3": {
+          "x": 3.92,
+          "y": -0.04,
+          "rotation": -90,
+          "width": 4,
+          "height": 10
+        }
+      },
+      "Layer 4": {
+        "Layer 4": {
+          "x": 5.24,
+          "y": -0.1,
+          "rotation": -89.34,
+          "width": 4,
+          "height": 13
+        }
+      },
+      "Layer 5": {
+        "Layer 5": {
+          "x": 5.7,
+          "y": -0.04,
+          "rotation": -90,
+          "width": 4,
+          "height": 13
+        }
+      },
+      "Layer 6": {
+        "Layer 6": {
+          "x": 7.16,
+          "y": -0.1,
+          "rotation": -89.48,
+          "width": 4,
+          "height": 16
+        }
+      },
+      "Layer 7": {
+        "Layer 7": {
+          "x": 5.78,
+          "y": 0.01,
+          "rotation": -90,
+          "width": 4,
+          "height": 13
+        }
+      },
+      "Layer 8": {
+        "Layer 8": {
+          "x": 2.7,
+          "y": -0.05,
+          "rotation": -88.57,
+          "width": 4,
+          "height": 7
+        }
+      },
+      "Layer 9": {
+        "Layer 9": {
+          "x": 2.28,
+          "y": -0.09,
+          "rotation": -89.16,
+          "width": 4,
+          "height": 6
+        }
+      },
+      "ground": {
+        "ground": {
+          "x": 8.6,
+          "y": 0.54,
+          "rotation": -89.49,
+          "width": 9,
+          "height": 21
+        }
+      },
+      "leaf1": {
+        "leaf1": {
+          "x": 7.09,
+          "y": 1.5,
+          "rotation": -138.22,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf10": {
+        "leaf10": {
+          "x": 10.35,
+          "y": -1.95,
+          "rotation": -139.02,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf11": {
+        "leaf11": {
+          "x": 6.39,
+          "y": 2.16,
+          "rotation": -140.08,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf12": {
+        "leaf12": {
+          "x": 9.6,
+          "y": -1.67,
+          "rotation": -140.08,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf13": {
+        "leaf13": {
+          "x": 7.23,
+          "y": -1.82,
+          "rotation": -42.02,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf14": {
+        "leaf14": {
+          "x": 10.57,
+          "y": 1.89,
+          "rotation": -42.02,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf15": {
+        "leaf15": {
+          "x": 6.67,
+          "y": -2.32,
+          "rotation": -40.24,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf16": {
+        "leaf16": {
+          "x": 9.9,
+          "y": 1.5,
+          "rotation": -40.24,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf17": {
+        "leaf17": {
+          "x": 7.73,
+          "y": -1.78,
+          "rotation": -41.67,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf18": {
+        "leaf18": {
+          "x": 11.05,
+          "y": 1.95,
+          "rotation": -41.67,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf19": {
+        "leaf19": {
+          "x": 7.16,
+          "y": -1.85,
+          "rotation": -41.44,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf2": {
+        "leaf2": {
+          "x": 10.42,
+          "y": -2.23,
+          "rotation": -138.22,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf20": {
+        "leaf20": {
+          "x": 10.47,
+          "y": 1.9,
+          "rotation": -41.44,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf21": {
+        "leaf21": {
+          "x": 7.32,
+          "y": -1.79,
+          "rotation": -44.69,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf22": {
+        "leaf22": {
+          "x": 10.84,
+          "y": 1.76,
+          "rotation": -44.69,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf23": {
+        "leaf23": {
+          "x": 6.74,
+          "y": -2.37,
+          "rotation": -39.39,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf24": {
+        "leaf24": {
+          "x": 9.91,
+          "y": 1.49,
+          "rotation": -39.39,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf25": {
+        "leaf25": {
+          "x": 3.59,
+          "y": -0.02,
+          "rotation": -89.45,
+          "width": 6,
+          "height": 9
+        }
+      },
+      "leaf3": {
+        "leaf3": {
+          "x": 6.7,
+          "y": 1.99,
+          "rotation": -139.96,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf4": {
+        "leaf4": {
+          "x": 9.92,
+          "y": -1.83,
+          "rotation": -139.96,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf5": {
+        "leaf5": {
+          "x": 7.04,
+          "y": 1.71,
+          "rotation": -134.68,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf6": {
+        "leaf6": {
+          "x": 10.6,
+          "y": -1.81,
+          "rotation": -134.68,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf7": {
+        "leaf7": {
+          "x": 6.8,
+          "y": 1.95,
+          "rotation": -139.06,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf8": {
+        "leaf8": {
+          "x": 10.07,
+          "y": -1.83,
+          "rotation": -139.06,
+          "width": 13,
+          "height": 13
+        }
+      },
+      "leaf9": {
+        "leaf9": {
+          "x": 7.07,
+          "y": 1.82,
+          "rotation": -139.02,
+          "width": 13,
+          "height": 13
+        }
+      }
+    }
+  },
+  "animations": {
+    "wind_gentle": {
+      "bones": {
+        "bone": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 1": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 2": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 3": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 4": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 5": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 6": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 7": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 8": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 9": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 10": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf25": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf13": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf1": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf15": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf3": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf17": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf5": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf19": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf8": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf21": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf9": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf24": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf11": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.5,
+              "angle": -0.54
+            },
+            {
+              "time": 1,
+              "angle": 0.69
+            },
+            {
+              "time": 1.5,
+              "angle": -0.4
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ]
+        }
+      }
+    },
+    "wind_strong": {
+      "bones": {
+        "bone": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 1": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 2": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 3": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 4": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 5": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 6": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 7": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 8": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 9": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "Layer 10": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf25": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf13": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf1": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf15": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf3": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf17": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf5": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf19": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf8": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf21": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf9": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf24": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        },
+        "leaf11": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.3333,
+              "angle": -0.92
+            },
+            {
+              "time": 1,
+              "angle": -2.56
+            },
+            {
+              "time": 1.3333,
+              "angle": -1.92
+            },
+            {
+              "time": 2,
+              "angle": -6.84
+            },
+            {
+              "time": 2.1667,
+              "angle": -4.9
+            },
+            {
+              "time": 2.3333,
+              "angle": -8.25
+            },
+            {
+              "time": 2.6667,
+              "angle": -4.31
+            },
+            {
+              "time": 3.3333,
+              "angle": 1.38
+            },
+            {
+              "time": 3.6667,
+              "angle": -0.77
+            },
+            {
+              "time": 4,
+              "angle": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}
